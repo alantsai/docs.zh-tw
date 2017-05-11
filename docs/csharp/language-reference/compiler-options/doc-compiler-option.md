@@ -74,9 +74,9 @@ ms.lasthandoff: 03/13/2017
   
 ### <a name="to-set-this-compiler-option-in-the-visual-studio-development-environment"></a>在 Visual Studio 開發環境中設定這個編譯器選項  
   
-1.  開啟專案的 [屬性]**** 頁面。  
+1.  開啟專案的 **[屬性]** 頁面。  
   
-2.  按一下 [建置]**** 索引標籤。  
+2.  按一下 **[建置]** 索引標籤。  
   
 3.  修改 **XML 文件檔案**屬性。  
   
