@@ -67,13 +67,13 @@ ms.lasthandoff: 03/13/2017
   
 ### <a name="to-set-this-compiler-option-in-the-visual-studio-development-environment"></a>在 Visual Studio 開發環境中設定這個編譯器選項  
   
-1.  開啟專案的 [屬性]**** 頁面。  
+1.  開啟專案的 **[屬性]** 頁面。  
   
-2.  按一下 [建置]**** 屬性頁面。  
+2.  按一下 **[建置]** 屬性頁面。  
   
-3.  按一下 [ **進階** ] 按鈕。  
+3.  按一下 **[進階]** 按鈕。  
   
-4.  修改 [檔案對齊]**** 屬性。  
+4.  修改 **[檔案對齊]** 屬性。  
   
  如需如何以程式設計方式設定此編譯器選項的資訊，請參閱 <xref:VSLangProj80.CSharpProjectConfigurationProperties3.FileAlignment%2A>。  
   
