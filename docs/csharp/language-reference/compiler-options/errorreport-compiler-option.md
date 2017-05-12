@@ -75,11 +75,11 @@ ms.lasthandoff: 03/13/2017
   
 ### <a name="to-set-this-compiler-option-in-the-visual-studio-development-environment"></a>在 Visual Studio 開發環境中設定這個編譯器選項  
   
-1.  開啟專案的 [屬性]**** 頁面。 如需詳細資訊，請參閱[專案設計工具、建置頁 (C#)](https://docs.microsoft.com/visualstudio/ide/reference/build-page-project-designer-csharp)。  
+1.  開啟專案的 **[屬性]** 頁面。 如需詳細資訊，請參閱[專案設計工具、建置頁 (C#)](https://docs.microsoft.com/visualstudio/ide/reference/build-page-project-designer-csharp)。  
   
-2.  按一下 [建置]**** 屬性頁面。  
+2.  按一下 **[建置]** 屬性頁面。  
   
-3.  按一下 [ **進階** ] 按鈕。  
+3.  按一下 **[進階]** 按鈕。  
   
 4.  修改**報告編譯器內部錯誤**屬性。  
   
