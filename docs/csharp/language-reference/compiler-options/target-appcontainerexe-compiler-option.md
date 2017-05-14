@@ -50,9 +50,9 @@ ms.lasthandoff: 03/13/2017
   
 ### <a name="to-set-this-compiler-option-in-the-ide"></a>若要在 IDE 中設定這個編譯器選項  
   
-1.  在方案總管****中，開啟專案的捷徑功能表，然後選擇 [屬性]****。  
+1.  在**方案總管**中，開啟專案的捷徑功能表，然後選擇 **[屬性]**。  
   
-2.  在 [應用程式]**** 索引標籤上，選擇 [輸出類型]**** 清單中的 [Windows 市集應用程式]****。  
+2.  在 **[應用程式]** 索引標籤上，選擇 **[輸出類型]** 清單中的 **[Windows 市集應用程式]**。  
   
      這個選項只適用於 [!INCLUDE[win8_appname_long](../../../csharp/includes/win8_appname_long_md.md)]應用程式範本。  
   
