@@ -14,7 +14,7 @@ ms.locfileid: "43864770"
 # <a name="tutorial-use-mlnet-in-a-sentiment-analysis-binary-classification-scenario"></a>教學課程：在情感分析二元分類案例中使用 ML.NET
 
 > [!NOTE]
-> 本主題參考 ML.NET，此功能目前為公開預覽版，而可能會有變更。 如需詳細資訊，請瀏覽 [ML.NET 簡介](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) \(英文)\。
+> 本主題參考 ML.NET，此功能目前為公開預覽版，而可能會有變更。 如需詳細資訊，請瀏覽 [ML.NET 簡介](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) (英文)。
 
 此範例教學課程說明如何使用 Visual Studio 2017 中的 C#，透過 .NET Core 主控台應用程式，使用 ML.NET 來建立情感分類器。
 
