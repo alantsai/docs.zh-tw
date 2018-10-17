@@ -18,6 +18,6 @@ ms.locfileid: "48836637"
 - [Iris 叢集](iris-clustering.md)：示範如何使用 ML.NET 套用**叢集**工作。
 
 > [!NOTE]
-> 教學課程會示範如何使用在 ML.NET 0.1 中引進的 ML.NET `LearningPipeline` API。 如需 ML.NET 0.6 中所引進新 API 的詳細資訊，請參閱 [ML.NET 高階概念](https://github.com/dotnet/machinelearning/blob/master/docs/code/MlNetHighLevelConcepts.md)和 [ML.NET Cookbook](https://github.com/dotnet/machinelearning/blob/master/docs/code/MlNetCookBook.md)。
+> 教學課程會示範如何使用在 ML.NET 0.1 中引進的 ML.NET `LearningPipeline` API。 如需 ML.NET 0.6 中所引進的新 API 詳細資訊，請參閱 [ML.NET 高階概念](https://github.com/dotnet/machinelearning/blob/master/docs/code/MlNetHighLevelConcepts.md)和 [ML.NET Cookbook](https://github.com/dotnet/machinelearning/blob/master/docs/code/MlNetCookBook.md)。
 
-如需使用 ML.NET 的更多範例，請檢查 [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) GitHub 存放庫。
+如需更多使用 ML.NET 的範例，請看 [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) GitHub 存放庫。
